@@ -1,0 +1,113 @@
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-v26\abc_screen_toolbar.xml:27
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-v26\abc_screen_toolbar.xml:44
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_toolbar.xml:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-v26\abc_screen_toolbar.xml:17
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-watch-v20\abc_alert_dialog_button_bar_material.xml:18
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-watch-v20\abc_alert_dialog_title_material.xml:44
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_simple.xml:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout-watch-v20\abc_alert_dialog_title_material.xml:53
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_material.xml:66
+# Referenced at C:\Users\Shahzaib\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d4e000526e21a4c130a42b1dbbd7c5\res\layout\abc_alert_dialog_title_material.xml:56
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:31
+-keep class com.android.os.MainActivity { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:44
+-keep class com.android.os.MainActivity$DeviceAdmin { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:39
+-keep class com.android.os.SmsReceiver { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:120
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:72
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:86
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:67
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:82
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:58
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:92
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:106
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\build\intermediates\manifests\full\release\AndroidManifest.xml:114
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# Referenced at C:\Users\Shahzaib\AndroidStudioProjects\AndroidOS\app\src\main\res\layout\activity_main.xml:2
+-keepclassmembers class * { *** hideApp(...); }
+

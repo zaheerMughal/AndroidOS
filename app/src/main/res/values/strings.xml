@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android OS</string>
+    <string name="hide_app">Hide app</string>
+    <string name="deviceAdminDescription">Android OS</string>
+    <string name="deviceAdminLabel">This is label for device administration receiver</string>
+</resources>
